@@ -7,7 +7,7 @@
 
 
 **Architecture Diagram**
-![Diagram](https://github.com/user-attachments/assets/a564c920-1607-489d-8c4b-56445b8ae48b)
+[Architecture_Diagram.pdf](https://github.com/user-attachments/files/18265508/Architecture_Diagram.pdf)
 
 
 **Setup Instruction**
